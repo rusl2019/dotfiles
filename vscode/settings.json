@@ -72,5 +72,5 @@
     "emmet.triggerExpansionOnTab": true,
     "files.autoSave": "afterDelay",
     "update.mode": "none",
-    "extensions.ignoreRecommendations": true,
+    "extensions.ignoreRecommendations": true
   }
