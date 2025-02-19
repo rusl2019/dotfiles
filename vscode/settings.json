@@ -1,0 +1,76 @@
+{
+    "editor.fontFamily": "FiraCode Nerd Font Mono",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.lineHeight": 26,
+    "editor.fontLigatures": "'ss01','ss05','dlig'",
+    "explorer.decorations.badges": false,
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "right",
+    "editor.cursorBlinking": "expand",
+    "editor.formatOnSave": true,
+    "git.autofetch": true,
+    "php.suggest.basic": false,
+    "intelephense.environment.phpVersion": "7.4.33",
+    "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.showTabs": "single",
+    "workbench.statusBar.visible": false,
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+    "breadcrumbs.enabled": false,
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 8,
+    "explorer.compactFolders": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 2,
+    "window.customTitleBarVisibility": "never",
+    "window.titleBarStyle": "native",
+    "workbench.colorCustomizations": {
+      "editorCursor.background": "#000000",
+      "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
+      "editorOverviewRuler.selectionHighlightForeground": "#0000",
+      "editorOverviewRuler.rangeHighlightForeground": "#0000",
+      "editorOverviewRuler.wordHighlightForeground": "#0000",
+      "editorOverviewRuler.bracketMatchForeground": "#0000",
+      "editorOverviewRuler.findMatchForeground": "#0000",
+      "editorOverviewRuler.modifiedForeground": "#0000",
+      "editorOverviewRuler.deletedForeground": "#0000",
+      "editorOverviewRuler.warningForeground": "#0000",
+      "editorOverviewRuler.addedForeground": "#0000",
+      "editorOverviewRuler.errorForeground": "#0000",
+      "editorOverviewRuler.infoForeground": "#0000",
+      "editorOverviewRuler.border": "#0000",
+      "[Aura Dracula Spirit (Soft)]": {
+        "editorSuggestWidget.selectedBackground": "#3A334B",
+        "sideBar.background": "#191521"
+      }
+    },
+    "editor.fontSize": 14,
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [
+        {
+          "scope": "comment",
+          "settings": {
+            "fontStyle": "italic"
+          }
+        }
+      ]
+    },
+    "editor.stickyScroll.enabled": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "scm.diffDecorations": "none",
+    "editor.lineNumbers": "relative",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.tabCompletion": "on",
+    "editor.snippetSuggestions": "top",
+    "emmet.triggerExpansionOnTab": true,
+    "files.autoSave": "afterDelay",
+    "update.mode": "none",
+    "extensions.ignoreRecommendations": true,
+  }
